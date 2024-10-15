@@ -1,0 +1,12 @@
+{
+  "name": "cap12projetoreactgram",
+  "version": "1.0.0",
+  "description": "Projeto focado em React, feito com React e Node,js. Coloca em prática conceitos de hooks de React, react-router-dom, conexões com API e comunicação com Back-end, redux, arquitetura, e css, trabalhados no curso de React do professor Matheus Battisti na Udemy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
